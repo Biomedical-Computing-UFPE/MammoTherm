@@ -26,17 +26,17 @@ distance applied to breast thermographic images. Medical & Biological Engineerin
 Database Information - Mammary Thermography
 
 Cyst: 219 images
-	LEMD: 25 
-	LEME: 33 
-	LIMD: 11 
-	LIME: 17 
-	MD: 27 
-	ME: 33 
-	T1: 31 
-	T2: 42 
+LEMD: 25 
+LEME: 33 
+LIMD: 11 
+LIME: 17 
+MD: 27 
+ME: 33 
+T1: 31 
+T2: 42 
 
 Benign Lesion: 371 images
-	LEMD: 44
+LEMD: 44
 	LEME: 47
 	LIMD: 34
 	LIME: 30
