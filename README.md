@@ -25,78 +25,76 @@ distance applied to breast thermographic images. Medical & Biological Engineerin
 
 Database Information - Mammary Thermography
 
-Cyst: 219 images
-LEMD: 25 
-LEME: 33 
-LIMD: 11 
-LIME: 17 
-MD: 27 
-ME: 33 
-T1: 31 
-T2: 42 
+Cyst: 219 images;
+LEMD: 25;
+LEME: 33;
+LIMD: 11;
+LIME: 17;
+MD: 27;
+ME: 33;
+T1: 31;
+T2: 42
 
-Benign Lesion: 371 images
-LEMD: 44
-	LEME: 47
-	LIMD: 34
-	LIME: 30
-	MD: 48
-	ME: 47
-	T1: 49
-	T2: 72
+Benign Lesion: 371 images;
+LEMD: 44;
+LEME: 47;
+LIMD: 34;
+LIME: 30;
+MD: 48;
+ME: 47;
+T1: 49;
+T2: 72
 
-Malignant Lesion: 235 images
-	LEMD: 23
-	LEME: 21
-	LIMD: 24
-	LIME: 22
-	MD: 36
-	ME: 33
-	T1: 33
-	T2: 43
+Malignant Lesion: 235 images;
+LEMD: 23;
+LEME: 21;
+LIMD: 24;
+LIME: 22;
+MD: 36;
+ME: 33;
+T1: 33;
+T2: 43
 
-No-Lesion: 227 images
-	LEMD: 36
-	LEME: 33
-	LIMD: 21
-	LIME: 22
-	MD: 25
-	ME: 24
-	T1: 23
-	T2: 43
+No-Lesion: 227 images;
+LEMD: 36;
+LEME: 33;
+LIMD: 21;
+LIME: 22;
+MD: 25;
+ME: 24;
+T1: 23;
+T2: 43
 
-Inconclusive: 360 images
-	LEMD: 37
-	LEME: 42
-	LIMD: 22
-	LIME: 23
-	MD: 51
-	ME: 60
-	T1: 50
-	T2: 75
+Inconclusive: 360 images;
+LEMD: 37;
+LEME: 42;
+LIMD: 22;
+LIME: 23;
+MD: 51;
+ME: 60;
+T1: 50;
+T2: 75
 
-Without diagnosis: 2469 images
-	LEMD: 339
-	LEME: 327
-	LIMD: 244
-	LIME: 211
-	MD: 299
-	ME: 295
-	T1: 283
-	T2: 471
+Without diagnosis: 2469 images;
+LEMD: 339;
+LEME: 327;
+LIMD: 244;
+LIME: 211;
+MD: 299;
+ME: 295;
+T1: 283;
+T2: 471
 
-Total of images: 3881
-Total of "useful" images: 1052
-	('useful' -> neither "inconclusive" nor "without diagnosis")
-
+Total of images: 3881;
+Total of "useful" images: 1052;
+('useful' -> neither "inconclusive" nor "without diagnosis")
 
 Legend:
-	LEMD - external lateral of the right breast
-	LEME - external lateral of the left breast
-	LIMD - internal lateral of the right breast
-	LIME - internal lateral of the left breast
-	MD - right breast (frontal)
-	ME - left breast (frontal)
-	T1 - frontal with arms down (bilateral)
-	T2 - frontal with arms up (bilateral)
-
+LEMD - external lateral of the right breast;
+LEME - external lateral of the left breast;
+LIMD - internal lateral of the right breast;
+LIME - internal lateral of the left breast;
+MD - right breast (frontal);
+ME - left breast (frontal);
+T1 - frontal with arms down (bilateral);
+T2 - frontal with arms up (bilateral)
